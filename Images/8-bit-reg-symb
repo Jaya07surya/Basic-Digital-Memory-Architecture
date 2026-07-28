@@ -1,0 +1,10 @@
+The 8-bit register is designed as a reusable hardware module.
+
+Inputs
+- D0–D7 : 8-bit data input
+- CLK : Clock input
+
+Outputs
+- Q0–Q7 : Stored 8-bit data
+
+This module serves as the basic storage element used to construct the RAM.
