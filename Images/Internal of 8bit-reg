@@ -1,0 +1,5 @@
+Internally, the register consists of eight D Flip-Flops connected in parallel.
+
+Each flip-flop stores one bit.
+
+All flip-flops share a common clock, allowing the entire byte to be captured simultaneously on a clock pulse.
