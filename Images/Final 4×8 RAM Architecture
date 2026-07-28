@@ -1,0 +1,11 @@
+The RAM is constructed using four 8-bit registers.
+
+The design includes:
+
+- Shared 8-bit Data Bus
+- 2-to-4 Address Decoder
+- Write Control Logic
+- 4-to-1 Multiplexer for Read Operations
+- Shared Address Bus
+
+Only the addressed register is written during a clock pulse, while the multiplexer continuously selects the addressed register for reading.
