@@ -81,12 +81,3 @@ This project demonstrates how a RAM can be constructed using:
 without relying on any built-in RAM components.
 
 ---
-
-## Future Work
-
-- 16×8 RAM
-- 32×8 RAM
-- 64×8 RAM
-- 256×8 RAM
-- Register File
-- Cache Memory
